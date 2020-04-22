@@ -1,5 +1,5 @@
-# Pandownload-fake-server
-替代pandownload原本的服务器文件以绕过pandownload启动问题
+
+替代pandownload原本的服务器文件以绕
 这是一个傻瓜式教程
 
 ## 需求：
